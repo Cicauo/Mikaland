@@ -8,11 +8,6 @@
         </div>
     </x-slot>
 
-    <div>
-  
-       {{-- <livewire:table.main name="contact" :model="$contact" />  --}}
-    
-
     <div class="section-body">
         <div class="card">
             <div class="card-header">
@@ -20,7 +15,7 @@
             </div>
 
             <div class="card-body">
-             
+              @isset($categories)
                 <div class="table-responsive">
                 
                     <table class="table table-striped">
@@ -47,12 +42,10 @@
                             @endforeach
                         </tbody>
                     </table>
-                   {{ $contact->links() }}
-
                 </div>
+                  @endisset
             </div>
         </div>
     </div>
 
-    </div>
 </x-app-layout>

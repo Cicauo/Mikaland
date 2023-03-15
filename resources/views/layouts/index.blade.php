@@ -52,17 +52,17 @@
         <![endif]-->
         
         
-        @include('Layouts.Partials.Spinner')
+        @include('layouts.partials.spinner')
        <!--Spinner-End -->
         
-        @include('Layouts.Partials.Header') 
+        @include('layouts.partials.header', ['categories' => $categories])
         <!--.header-End -->
 		
         <!-- Content-Start -->
         @yield('Pages')
         <!-- Content-End -->
 
-        @include('Layouts.Partials.Footer')
+        @include('layouts.partials.footer')
 		<!-- /.footer-section -->
 
 		<a data-scroll href="#header" id="scroll-to-top"><i class="arrow_carrot-up"></i></a>

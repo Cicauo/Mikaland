@@ -1,5 +1,5 @@
-@extends('Layouts/Index')
-@section('Pages')
+@extends('layouts/index')
+@section('pages')
 <section class="page-header padding">
 		    <div class="container">
 		        <div class="page-content text-center">

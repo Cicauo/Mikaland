@@ -3,7 +3,9 @@
 use App\Http\Controllers\UserController;
 use App\Http\Controllers\ContactController;
 use App\Http\Controllers\CategoryController;
+use App\Http\Controllers\HomeController;
 use Illuminate\Support\Facades\Route;
+
 
 
 /*
@@ -22,9 +24,7 @@ use Illuminate\Support\Facades\Route;
 // });
 
 // FrontEnd-Views
-Route::get('/', function () {
-    return view('Guest.Index');
-});
+Route::get('/', [HomeController::class, 'index'])->name('home');
 
 Route::get('/about-company', function () {
     return view('Guest.AboutCompany');
@@ -47,7 +47,8 @@ Route::get('/blogdetail', function () {
 });
 
 Route::get('/contact', function () {
-    return view('Guest.Contact');
+    $categories = \App\Models\Category::all();
+    return view('Guest.Contact', compact('categories'));
 });
 //FrontEnd-View-End
 
@@ -57,12 +58,23 @@ Route::group([ "middleware" => ['auth:sanctum', 'verified'] ], function() {
 
     //Menu Kategori
     Route::get('/category', [CategoryController::class, 'index'])->name('category.index');
-    Route::get('/category/create', [CategoryController::class, 'create'])->name('category.new');
+    // GET route untuk menampilkan form kategori
+    Route::get('/category/category-new', [CategoryController::class, 'create'])->name('category.new');
+    // POST route untuk menyimpan data kategori baru
     Route::post('/category', [CategoryController::class, 'store'])->name('category.store');
+    // GET route untuk menampilkan form edit kategori
+    Route::get('/category/category-edit/{id}', [CategoryController::class, 'edit'])->name('category.edit');
+    // POST route untuk menyimpan data kategori yang telah diedit
+    Route::post('/category/update/{id}', [CategoryController::class, 'update'])->name('category.update');
+    // POST route untuk menghapus data kategori
+    Route::post('/category/{category}/delete', [CategoryController::class, 'destroy'])->name('category.destroy');
+    //Menampilkan kategori dinamis di navbar frontend
+    Route::get('/category/{slug}', [CategoryController::class, 'show'])->name('category.show');
+
+
 
     //Contact
     Route::get('/contact/index', [ContactController::class, 'index'])->name('contact.index');
-    // Route::get('/contact/create', [ContactController::class, 'create'])->name('contact.new');
     Route::post('/contact/store', [ContactController::class, 'store'])->name('contact.store');
 
 

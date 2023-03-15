@@ -1,14 +1,13 @@
 <?php
 
 namespace App\Http\Controllers;
-
 use Illuminate\Http\Request;
-use App\Models\Contact;
 use App\Models\Category;
 use Illuminate\Routing\Controller;
+use Illuminate\Support\Facades\Storage;
 use DB;
 
-class ContactController extends Controller
+class HomeController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -17,11 +16,9 @@ class ContactController extends Controller
      */
     public function index()
     {
-        $contact = Contact::all();
         $categories = Category::all();
-       
-        return view('pages.contact.contact-data', compact('contact','categories'));
-
+        
+        return view('Guest.index', compact('categories'));
     }
 
     /**
@@ -42,19 +39,7 @@ class ContactController extends Controller
      */
     public function store(Request $request)
     {
-        $contact = new Contact();
-        $contact->name = $request->input('name');
-        $contact->email = $request->input('email');
-        $contact->description = $request->input('description');
-        $contact->save();
-
-        $request->validate([
-            'name' => 'required',
-            'email' => 'required|email',
-            'description' => 'required',
-        ]);
-    
-        return redirect()->back()->with('success', 'Pesan Anda telah terkirim');
+        //
     }
 
     /**

@@ -8,14 +8,14 @@ $links = [
     [
     "href" => [
         [
-            "section_text" => "Kategori",
+            "section_text" => "Kategori Project",
             "section_list" => [
                 ["href" => "category.index", "text" => "Data Kategori"],
                 ["href" => "category.new", "text" => "Tambah Kategori"]
             ]
         ]
     ],
-    "text" => "Kategori",
+    "text" => "Kategori Project",
     "is_multi" => true,
     ],
     [
