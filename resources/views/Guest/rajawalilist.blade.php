@@ -53,7 +53,7 @@
         <div id="project-carousel-2" class="project-carousel-2 owl-carousel">
             <div class="project-item">
                 <div class="project-thumb">
-                    <img src="img/savana-home-primary-project.jpg" alt="">
+                    <img src="img/rajawali36.jpg" alt="">
                 </div>
                 <div class="project-content">
                     <h3><a href="rajawali-type-1">Rajawali Type 36</a></h3>
