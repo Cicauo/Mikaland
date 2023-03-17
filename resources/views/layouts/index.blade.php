@@ -55,11 +55,11 @@
         @include('layouts.partials.spinner')
        <!--Spinner-End -->
         
-        @include('layouts.partials.header', ['categories' => $categories])
+        @include('layouts.partials.header')
         <!--.header-End -->
 		
         <!-- Content-Start -->
-        @yield('Pages')
+        @yield('pages')
         <!-- Content-End -->
 
         @include('layouts.partials.footer')

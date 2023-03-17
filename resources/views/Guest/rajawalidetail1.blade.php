@@ -1,5 +1,5 @@
-@extends('Layouts/Index')
-@section('Pages')
+@extends('layouts/index')
+@section('pages')
 <section class="page-headers padding" style="background-image: url(img/rajawali-utama.png">
     <div class="container">
         <div class="page-content text-center">

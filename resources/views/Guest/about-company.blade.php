@@ -1,5 +1,5 @@
-@extends('Layouts.Index')
-@section('Pages')
+@extends('layouts.index')
+@section('pages')
 <section class="page-header padding">
     <div class="container">
         <div class="page-content text-center">
@@ -34,7 +34,7 @@
                     <br>
                     <h2>Misi</h2>
                     <ul class="about-list">
-                        <li><i class="fas fa-check"></i>Kami bertujuan menjadi perusahaan yang memiliki kredibilitas dan akuntabilitas yang tinggi sehingga mampu berkembang menjadi perusahaan yang besar dan maju.</li>
+                         <li><i class="fas fa-check"></i>Kami bertujuan menjadi perusahaan yang memiliki kredibilitas dan akuntabilitas yang tinggi sehingga mampu berkembang menjadi perusahaan yang besar dan maju.</li>
                         <li><i class="fas fa-check"></i>Kami berkomitmen untuk menyediakan jasa pembangunan perumahan yang dapat diandalkan untuk memenuhi kebutuhan profesional Anda.</li>
                         <li><i class="fas fa-check"></i>Schedule tepat waktu dan kualitas yang unggul adalah prioritas utama dalam setiap proyek pembangunan perumahan profesional kami.</li>
                         <li><i class="fas fa-check"></i>Tujuan kami adalah memberikan hunian yang asri, nyaman, dan tenang bagi klien profesional kami.</li>
@@ -87,7 +87,7 @@
                     <div class="project-item">
                         <img src="img/ach4.jpg" alt="projects">
                         <div class="overlay"></div>
-                        <a href="img/project-4.jpg" class="view-icon img-popup"> <i class="fas fa-expand"></i></a>
+                        <a href="img/ach4.jpg" class="view-icon img-popup"> <i class="fas fa-expand"></i></a>
 
                     </div>
                 </div>

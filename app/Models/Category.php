@@ -21,6 +21,7 @@ class Category extends Model
         'brosur',
         'slogan',
         'slug',
+        'tbl_title_category',
     ];
 
     

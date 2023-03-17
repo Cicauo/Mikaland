@@ -1,5 +1,5 @@
-@extends('Layouts.Index')
-@section('Pages')
+@extends('layouts.index')
+@section('pages')
 {{-- <section class="page-header padding"> --}}
 <section class="page-headers padding" style="background-image: url(img/fotoutama.jpg">
     <div class="container">
@@ -99,7 +99,7 @@
                     <div class="overlay"></div>
                     <a href="" class="view-icon img-popup"> <i class="fas fa-expand"></i></a>
                     <div class="projects-content">
-                        <a href="#" class="category">KidZone</a>
+                        <a href="" class="category">KidZone</a>
                         <h3><a href="" class="tittle">Taman bermain anak</a></h3>
                     </div>
                 </div>
@@ -110,7 +110,7 @@
                     <div class="overlay"></div>
                     <a href="" class="view-icon img-popup"> <i class="fas fa-expand"></i></a>
                     <div class="projects-content">
-                        <a href="#" class="category">Health</a>
+                        <a href="" class="category">Health</a>
                         <h3><a href="" class="tittle">Reflexology Path</a></h3>
                     </div>
                 </div>
@@ -121,7 +121,7 @@
                     <div class="overlay"></div>
                     <a href="" class="view-icon img-popup"> <i class="fas fa-expand"></i></a>
                     <div class="projects-content">
-                        <a href="#" class="category">Connect</a>
+                        <a href="" class="category">Connect</a>
                         <h3><a href="" class="tittle">Community Corner</a></h3>
                     </div>
                 </div>

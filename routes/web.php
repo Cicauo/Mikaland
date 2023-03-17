@@ -28,75 +28,63 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', [HomeController::class, 'index'])->name('home');
 
 Route::get('/about-company', function () {
-    return view('Guest.AboutCompany');
+    return view('guest.about-company');
 });
 
 // Ganti ini hanya sementara 
 // Savana 
 Route::get('/savana-list', function () {
-    return view('Guest.savanalist');
+    return view('guest.savanalist');
 });
 
 Route::get('/savana-type-50', function () {
-    return view('Guest.savanadetail50');
+    return view('guest.savanadetail50');
 });
 
 Route::get('/savana-type-33', function () {
-    return view('Guest.savanadetail33');
+    return view('guest.savanadetail33');
 });
 
 // Rajawali 
 Route::get('/rajawali-list', function () {
-    return view('Guest.rajawalilist');
+    return view('guest.rajawalilist');
 });
 
 Route::get('/rajawali-type-36', function () {
-    return view('Guest.rajawalidetail1');
+    return view('guest.rajawalidetail1');
 });
 
 Route::get('/rajawali-type-2', function () {
-    return view('Guest.rajawalidetail2');
+    return view('guest.rajawalidetail2');
 });
 
 Route::get('/mega-pesona-list', function () {
-    return view('Guest.megapesonalist');
+    return view('guest.megapesonalist');
 });
 
 Route::get('/mega-pesona-type-33', function () {
-    return view('Guest.pesonadetail1');
+    return view('guest.pesonadetail1');
 });
 
-Route::get('/mega-pesona-type-2', function () {
-    return view('Guest.pesonadetail2');
+Route::get('/list-blog', function () {
+    return view('guest.list-blog');
 });
 
-
-// Route::get('/category/{slug}', [CategoryController::class, 'show'])->name('category.show');
-
-Route::get('/projectdetail', function () {
-    return view('Guest.ProjectDetail');
+Route::get('/blog-detail', function () {
+    return view('guest.blog-detail');
 });
 
-// Blog
-Route::get('/listblog', function () {
-    return view('Guest.ListBlog');
+Route::get('/blog-detail-2', function () {
+    return view('guest.blog-detail-2');
 });
 
-Route::get('/blogdetail', function () {
-    return view('Guest.BlogDetail');
-});
-
-Route::get('/blogdetail2', function () {
-    return view('Guest.BlogDetail2');
-});
-
-Route::get('/blogdetail3', function () {
-    return view('Guest.BlogDetail3');
+Route::get('/blog-detail-3', function () {
+    return view('guest.blog-detail-3');
 });
 
 Route::get('/contact', function () {
     $categories = \App\Models\Category::all();
-    return view('Guest.Contact', compact('categories'));
+    return view('guest.contact');
 });
 //FrontEnd-View-End
 

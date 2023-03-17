@@ -1,5 +1,5 @@
-@extends('Layouts.Index')
-@section('Pages')
+@extends('layouts.index')
+@section('pages')
 <div id="google-map">
  {{-- <img src="img/maps-savana.jpg" class="mx-auto d-block" alt="Responsive image"> --}}
  <iframe class="mx-auto d-block" width="100%" height="440" frameborder="0" style="border:0" allowfullscreen="" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d991.4687659506736!2d106.45726555208627!3d-6.280151282357816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e420665f6135b0b%3A0x5ef21bfb0413ac65!2sKantor%20Pemasaran%20Mika%20Land!5e0!3m2!1sid!2sid!4v1678956138187!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

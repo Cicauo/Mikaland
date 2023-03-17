@@ -11,10 +11,10 @@
                         <div class="widget-content">
                             <h4>Company</h4>
                             <ul class="widget-links">
-                                <li><a href="About-Us">About Us</a></li>
-                                <li><a href="#">Savana Park Resident</a></li>
-                                <li><a href="#">Rajawali Resident</a></li>
-                                <li><a href="#">Mega Pesona</a></li>
+                                <li><a href="about-company">About Us</a></li>
+                                <li><a href="savana-list">Savana Park Resident</a></li>
+                                <li><a href="rajawali-list">Rajawali Resident</a></li>
+                                <li><a href="mega-pesona-list">Mega Pesona</a></li>
                             </ul>
                         </div>
                     </div>
@@ -56,6 +56,6 @@
 
 <footer class="footer-section align-center">
 			<div class="container">
-				<p>&copy; 2019 Arkit Powered by DynamicLayers</p>
+				<p>&copy; 2023 Mida Karya Abadi Land</p>
 			</div>
 		</footer>

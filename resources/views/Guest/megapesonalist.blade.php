@@ -1,5 +1,5 @@
-@extends('Layouts.Index')
-@section('Pages')
+@extends('layouts.index')
+@section('pages')
 {{-- <section class="page-header padding"> --}}
 <section class="page-headers padding" style="background-image: url(img/mega-pesona-utama.png">
     <div class="container">
@@ -75,7 +75,7 @@
 <section class="projects-section padding">
     <div class="container ">
         <div class="page-content  text-center">
-            <h2 style="color:#263a4f;">Fasilitas</h2>
+            <h2 style="color:263a4f;">Fasilitas</h2>
             <h3>Mega Pesona</h3>
         </div>
         <br>
@@ -86,7 +86,7 @@
                     <div class="overlay"></div>
                     <a href="" class="view-icon img-popup"> <i class="fas fa-expand"></i></a>
                     <div class="projects-content">
-                        <a href="#" class="category">Olahraga</a>
+                        <a href="" class="category">Olahraga</a>
                         <h3><a href="" class="tittle">Lapangan Badminton</a></h3>
                     </div>
                 </div>
@@ -97,7 +97,7 @@
                     <div class="overlay"></div>
                     <a href="" class="view-icon img-popup"> <i class="fas fa-expand"></i></a>
                     <div class="projects-content">
-                        <a href="#" class="category">Tempat Ibadah</a>
+                        <a href="" class="category">Tempat Ibadah</a>
                         <h3><a href="" class="tittle">Masjid</a></h3>
                     </div>
                 </div>
@@ -108,7 +108,7 @@
                     <div class="overlay"></div>
                     <a href="" class="view-icon img-popup"> <i class="fas fa-expand"></i></a>
                     <div class="projects-content">
-                        <a href="#" class="category">Community</a>
+                        <a href="" class="category">Community</a>
                         <h3><a href="" class="tittle">Gedung Serba Guna</a></h3>
                     </div>
                 </div>
@@ -122,7 +122,7 @@
             <div id="google-map">
                 {{-- <img src="img/maps-savana.jpg" class="mx-auto d-block" alt="Responsive image"> --}}
                 <iframe class="mx-auto d-block" width="100%" height="440" frameborder="0" style="border:0" allowfullscreen="" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d247.8707725073944!2d106.45639330290237!3d-6.272625043988868!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e4207e6c69d2be1%3A0x6839eae5df427cb4!2sMega%20Pesona%20Leungsir!5e0!3m2!1sid!2sid!4v1679043966337!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-            </div><!-- /#google-map -->
+            </div><!-- /google-map -->
         </div>
         
     </div>
@@ -260,7 +260,7 @@
         <div class="cta-content text-center">
             <h2>Dapatkan harga terbaik <br>dan layanan memuaskan</h2>
             <p>Jangan lewatkan kesempatan investasi properti yang <br> menguntungkan di daerah yang sedang berkembang.</p>
-            <a href="https://api.whatsapp.com/send?phone=6282122620425" style="display: inline-block; padding:16px; border-radius: 8px; background-color: #25D366; color: #fff; text-decoration: none; font-family: sans-serif; font-size: 16px;">WhatsApp Kami</a>
+            <a href="https://api.whatsapp.com/send?phone=6282122620425" style="display: inline-block; padding:16px; border-radius: 8px; background-color: 25D366; color: fff; text-decoration: none; font-family: sans-serif; font-size: 16px;">WhatsApp Kami</a>
         </div>
     </div>
 </section>
