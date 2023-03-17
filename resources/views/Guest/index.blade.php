@@ -4,17 +4,17 @@
 
         <div id="main-slider" class="dl-slider">
             <div class="single-slide">
-                <div class="bg-img kenburns-top-right" style="background-image: url(img/slider-1.jpg);"></div>
+                <div class="bg-img kenburns-top-right" style="background-image: url(img/fotoutama.jpg);"></div>
                 <div class="overlay"></div>
                 <div class="slider-content-wrap d-flex align-items-center text-left">
                     <div class="container">
                         <div class="slider-content">
-                            <div class="dl-caption medium"><div class="inner-layer"><div data-animation="fade-in-right" data-delay="1s">Residencial</div></div></div>
+                            <div class="dl-caption medium"><div class="inner-layer"><div data-animation="fade-in-right" data-delay="1s">Cluster</div></div></div>
                             <div class="dl-caption dl-border" data-animation="fade-in-left" data-delay="0s"></div>
-                            <div class="dl-caption big"><div class="inner-layer"><div data-animation="fade-in-left" data-delay="2s">Dream home might be</div></div>
+                            <div class="dl-caption big"><div class="inner-layer"><div data-animation="fade-in-left" data-delay="2s">Savana Park</div></div>
                             </div>
-                            <div class="dl-caption big"><div class="inner-layer"><div data-animation="fade-in-left" data-delay="2.5s">closer than you think.</div></div></div>
-                            <div class="dl-caption small"><div class="inner-layer"><div data-animation="fade-in-left" data-delay="3s">Business is the activity of making money.</div></div></div>
+                            <div class="dl-caption big"><div class="inner-layer"><div data-animation="fade-in-left" data-delay="2.5s">Residential</div></div></div>
+                            <div class="dl-caption small"><div class="inner-layer"><div data-animation="fade-in-left" data-delay="3s">Green living to make it better the future</div></div></div>
                             <div class="dl-btn-group">
                                 <div class="inner-layer">
                                     <a href="listprojects" class="dl-btn" data-animation="fade-in-left" data-delay="3.5s">View Projects <i class="arrow_right"></i></a>
@@ -102,46 +102,71 @@
                    <span>Services</span>
                    <h2>Our speciallization</h2>
                 </div><!--/.section-heading-->
-                <div class="service-wrap row">
-                    <div class="col-lg-4 col-sm-6 padding-15">
+                 <div class="row service-wrap">
+                    <div class="col-lg-3 col-sm-6 padding-15">
                         <div class="service-item">
-                            <div class="service-thumb">
-                                <img src="img/service-1.jpg" alt="thumb">
-                            </div>
-                            <div class="service-content">
-                                <i class="m-flaticon-refinery"></i>
-                                <h3>Architecture</h3>
-                                <p>We offer a fully integrated service that complements the architectural concept, we ensure all projects.</p>
-                                <a href="#">View Projects</a>
-                            </div>
+                            <i class="flaticon-refinery"></i>
+                            <h3>Architecture</h3>
+                            <p>We offer a fully integrated service that complements the architectural concept, we ensure all projects.</p>
+                            <a href="#">View Projects</a>
                         </div>
-                    </div><!--Item 1-->
-                    <div class="col-lg-4 col-sm-6 padding-15">
+                    </div>
+                    <div class="col-lg-3 col-sm-6 padding-15">
                         <div class="service-item">
-                            <div class="service-thumb">
-                                <img src="img/service-2.jpg" alt="thumb">
-                            </div>
-                            <div class="service-content">
-                                <i class="m-flaticon-industrial-robot-1"></i>
-                                <h3>Interior Design</h3>
-                                <p>We offer a fully integrated service that complements the architectural concept, we ensure all projects.</p>
-                                <a href="#">View Projects</a>
-                            </div>
+                            <i class="flaticon-industrial-robot-1"></i>
+                            <h3>Interior Design</h3>
+                            <p>We offer a fully integrated service that complements the architectural concept, we ensure all projects.</p>
+                            <a href="#">View Projects</a>
                         </div>
-                    </div><!--Item 3-->
-                    <div class="col-lg-4 col-sm-6 padding-15">
+                    </div>
+                    <div class="col-lg-3 col-sm-6 padding-15">
                         <div class="service-item">
-                            <div class="service-thumb">
-                                <img src="img/service-3.jpg" alt="thumb">
-                            </div>
-                            <div class="service-content">
-                                <i class="m-flaticon-factory"></i>
-                                <h3>Commercial Design</h3>
-                                <p>We offer a fully integrated service that complements the architectural concept, we ensure all projects.</p>
-                                <a href="#">View Projects</a>
-                            </div>
+                            <i class="flaticon-tanks"></i>
+                            <h3>Painting Services</h3>
+                            <p>We offer a fully integrated service that complements the architectural concept, we ensure all projects.</p>
+                            <a href="#">View Projects</a>
                         </div>
-                    </div><!--Item 3-->
+                    </div>
+                    <div class="col-lg-3 col-sm-6 padding-15">
+                        <div class="service-item">
+                            <i class="flaticon-factory"></i>
+                            <h3>Commercial Design</h3>
+                            <p>We offer a fully integrated service that complements the architectural concept, we ensure all projects.</p>
+                            <a href="#">View Projects</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6 padding-15">
+                        <div class="service-item">
+                            <i class="flaticon-control-system"></i>
+                            <h3>Industrial Working</h3>
+                            <p>We offer a fully integrated service that complements the architectural concept, we ensure all projects.</p>
+                            <a href="#">View Projects</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6 padding-15">
+                        <div class="service-item">
+                            <i class="flaticon-industrial-robot"></i>
+                            <h3>Map Designing</h3>
+                            <p>We offer a fully integrated service that complements the architectural concept, we ensure all projects.</p>
+                            <a href="#">View Projects</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6 padding-15">
+                        <div class="service-item">
+                            <i class="flaticon-worker"></i>
+                            <h3>Building Planning</h3>
+                            <p>We offer a fully integrated service that complements the architectural concept, we ensure all projects.</p>
+                            <a href="#">View Projects</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6 padding-15">
+                        <div class="service-item">
+                            <i class="flaticon-assembly-line"></i>
+                            <h3>Painting Services</h3>
+                            <p>We offer a fully integrated service that complements the architectural concept, we ensure all projects.</p>
+                            <a href="#">View Projects</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section><!--/.service-section-->
@@ -392,29 +417,24 @@
             <div class="container">
                 <div id="sponsor-carousel" class="sponsor-carousel owl-carousel">
                     <div class="sponsor-item">
-                        <img src="img/sponsor1.png" alt="sponsor">
+                        <img src="img/logo-apersi.png" alt="sponsor">
                     </div>
                     <div class="sponsor-item">
-                        <img src="img/sponsor2.png" alt="sponsor">
+                        <img src="img/logo-pupr.png" alt="sponsor">
                     </div>
                     <div class="sponsor-item">
-                        <img src="img/sponsor3.png" alt="sponsor">
+                        <img src="img/logo-bank-bni.png" alt="sponsor">
                     </div>
                     <div class="sponsor-item">
-                        <img src="img/sponsor4.png" alt="sponsor">
+                        <img src="img/logo-bank-btn.png" alt="sponsor">
                     </div>
                     <div class="sponsor-item">
-                        <img src="img/sponsor5.png" alt="sponsor">
+                        <img src="img/logo-bank-bsi.png" alt="sponsor">
                     </div>
                     <div class="sponsor-item">
-                        <img src="img/sponsor6.png" alt="sponsor">
+                        <img src="img/logo-bank-bri.png" alt="sponsor">
                     </div>
-                    <div class="sponsor-item">
-                        <img src="img/sponsor7.png" alt="sponsor">
-                    </div>
-                    <div class="sponsor-item">
-                        <img src="img/sponsor8.png" alt="sponsor">
-                    </div>
+                    
                 </div>
             </div>
         </div><!--/.sponsor-section-->

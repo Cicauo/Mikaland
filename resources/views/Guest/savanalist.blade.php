@@ -1,10 +1,10 @@
 @extends('Layouts.Index')
 @section('Pages')
 {{-- <section class="page-header padding"> --}}
-<section class="page-headers padding" style="background-image: url(../img/fotoutama.jpg">
+<section class="page-headers padding" style="background-image: url(img/fotoutama.jpg">
     <div class="container">
         <div class="page-content text-center">
-            <h2>Savana Park Resident</h2>
+            <h2>Cluster Savana Park</h2>
             <p>Green living to make it better the future</p>
         </div>
     </div>
@@ -25,7 +25,6 @@
                         <li><i class="fas fa-check"></i>10 Menit Ke Universitas Tangerang Raya</li>
                         <li><i class="fas fa-check"></i>16 Menit Ke fasilitas Kesehatan / Rumah Sakit </li>
                         <li><i class="fas fa-check"></i>18 Menit Ke Stasiun Commuter Line Tigaraksa</li>
-                        <li><i class="fas fa-check"></i>Domisili Perusahaan, No. 593/33/DS-CHN/IX/2014</li>
                         <li><i class="fas fa-check"></i>23 Menit Ke Tol Balaraja Timur / Cikupa</li>
                     </ul>
                     <a href="#" class="default-btn">Download Browsur</a>
@@ -48,7 +47,7 @@
     <div class="dots"></div>
     <div class="container">
         <div class="section-heading text-center mb-40">
-            <span>Savana Park Resident</span>
+            <span>Cluster Savana Park</span>
             <h2>Pilihan Tipe Rumah</h2>
         </div>
         <!--/.section-heading-->
@@ -58,20 +57,20 @@
                     <img src="img/savana-home-primary-project.jpg" alt="">
                 </div>
                 <div class="project-content">
-                    <h3><a href="#">Type 50/60</a></h3>
+                    <h3><a href="savana-type-50">Type 50/60</a></h3>
                     <p>Cluster Savana Park type 50/60 adalah hunian 2 lantai dengan 3 kamar tidur dan 2 kamar mandi yang berlokasi di kawasan yang mengusung konsep green living. Dilengkapi dengan fasilitas taman bermain anak, jogging track,dan keamanan 24 jam, cluster ini cocok bagi keluarga muda atau pasangan yang baru menikah yang ingin memiliki hunian modern dengan budget terjangkau.</p>
-                    <a href="#" class="default-btn">Lihat Detail</a>
+                    <a href="savana-type-50" class="default-btn">Lihat Detail</a>
                 </div>
             </div>
 
             <div class="project-item">
                 <div class="project-thumb">
-                    <img src="img/savana-home-primary-project.jpg" alt="">
+                    <img src="img/savana-home-secondary-project.jpg" alt="">
                 </div>
                 <div class="project-content">
-                    <h3><a href="#">Type 50/60</a></h3>
+                    <h3><a href="savana-type-33">Type 33/60</a></h3>
                     <p>Cluster Savana Park type 50/60 adalah hunian 2 lantai dengan 3 kamar tidur dan 2 kamar mandi yang berlokasi di kawasan yang mengusung konsep green living. Dilengkapi dengan fasilitas taman bermain anak, jogging track,dan keamanan 24 jam, cluster ini cocok bagi keluarga muda atau pasangan yang baru menikah yang ingin memiliki hunian modern dengan budget terjangkau.</p>
-                    <a href="#" class="default-btn">Lihat Detail</a>
+                    <a href="savana-type-33" class="default-btn">Lihat Detail</a>
                 </div>
             </div>
         </div>
@@ -84,40 +83,40 @@
     <div class="container ">
         <div class="page-content  text-center">
             <h2 style="color:#263a4f;">Fasilitas</h2>
-            <h3>Savana Park Resident</h3>
+            <h3>Cluster Savana Park</h3>
         </div>
         <br>
         <div class="row project-item">
             <div class="col-lg-4 col-sm-6 padding-15">
                 <div class="project-item">
-                    <img src="img/project-1.jpg" alt="projects">
+                    <img src="img/playgrounds.jpg" alt="projects">
                     <div class="overlay"></div>
-                    <a href="img/project-1.jpg" class="view-icon img-popup"> <i class="fas fa-expand"></i></a>
+                    <a href="" class="view-icon img-popup"> <i class="fas fa-expand"></i></a>
                     <div class="projects-content">
-                        <a href="#" class="category">Interior</a>
-                        <h3><a href="project-single.html" class="tittle">Rectangular house near italy</a></h3>
+                        <a href="#" class="category">KidZone</a>
+                        <h3><a href="" class="tittle">Taman bermain anak</a></h3>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6 padding-15">
                 <div class="project-item">
-                    <img src="img/project-2.jpg" alt="projects">
+                    <img src="img/reflexology.jpg" alt="projects">
                     <div class="overlay"></div>
-                    <a href="img/project-2.jpg" class="view-icon img-popup"> <i class="fas fa-expand"></i></a>
+                    <a href="" class="view-icon img-popup"> <i class="fas fa-expand"></i></a>
                     <div class="projects-content">
-                        <a href="#" class="category">Architecture</a>
-                        <h3><a href="project-single.html" class="tittle">Cathedral of brasilia brasilia</a></h3>
+                        <a href="#" class="category">Health</a>
+                        <h3><a href="" class="tittle">Reflexology Path</a></h3>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6 padding-15">
                 <div class="project-item">
-                    <img src="img/project-2.jpg" alt="projects">
+                    <img src="img/comunity.jpg" alt="projects">
                     <div class="overlay"></div>
-                    <a href="img/project-2.jpg" class="view-icon img-popup"> <i class="fas fa-expand"></i></a>
+                    <a href="" class="view-icon img-popup"> <i class="fas fa-expand"></i></a>
                     <div class="projects-content">
-                        <a href="#" class="category">Architecture</a>
-                        <h3><a href="project-single.html" class="tittle">Cathedral of brasilia brasilia</a></h3>
+                        <a href="#" class="category">Connect</a>
+                        <h3><a href="" class="tittle">Community Corner</a></h3>
                     </div>
                 </div>
             </div>
@@ -127,8 +126,107 @@
 </section>
 <!--/.Fasilitas-section-->
 
+<section class="service-section bg-grey bd-bottom padding">
+    <div class="dots"></div>
+    <div class="container">
+        <div class="service-wrap row">
+            <div class="col-lg-4 col-sm-6 padding-15">
+                <div class="service-box">
+                    <i class="m-flaticon-refinery"></i>
+                    <div class="service-info">
+                        <h3>Lokasi</h3>
+                        <p>Terletak di kawasan Kab.Tangerang yang menjadi pertemuan 3 provinsi.</p>
+                    </div>
+                </div>
+            </div>
+            <!--item-1-->
+            <div class="col-lg-4 col-sm-6 padding-15">
+                <div class="service-box">
+                    <i class="m-flaticon-industrial-robot"></i>
+                    <div class="service-info">
+                        <h3>Konsep</h3>
+                        <p>Kawasan hunian bernuansa alami, nyaman, dan dilengkapi fasilitas lengkap.</p>
+                    </div>
+                </div>
+            </div>
+            <!--item-2-->
+            <div class="col-lg-4 col-sm-6 padding-15">
+                <div class="service-box">
+                    <i class="m-flaticon-worker"></i>
+                    <div class="service-info">
+                        <h3>Developer</h3>
+                        <p>Didukung oleh developer yang handal dan berpengalaman.</p>
+                    </div>
+                </div>
+            </div>
+            <!--item-3-->
+            <div class="col-lg-4 col-sm-6 padding-15">
+                <div class="service-box">
+                    <i class="m-flaticon-assembly-line"></i>
+                    <div class="service-info">
+                        <h3>Landscape</h3>
+                        <p>Jauh dari mobilitas kendaraan umum dan aman dari banjir.</p>
+                    </div>
+                </div>
+            </div>
+            <!--item-4-->
+            <div class="col-lg-4 col-sm-6 padding-15">
+                <div class="service-box">
+                    <i class="m-flaticon-tank-truck"></i>
+                    <div class="service-info">
+                        <h3>Sunrise Property</h3>
+                        <p>Lokasi strategis dekat pusat pemerintahan dan akses tol sedang dibangun.</p>
+                    </div>
+                </div>
+            </div>
+            <!--item-5-->
+            <div class="col-lg-4 col-sm-6 padding-15">
+                <div class="service-box">
+                    <i class="m-flaticon-factory-1"></i>
+                    <div class="service-info">
+                        <h3>Spesifikasi</h3>
+                        <p>Bangunan menggunakan material berkualitas dan konsep terupdate.</p>
+                    </div>
+                </div>
+            </div>
+            <!--item-6-->
+            <div class="col-lg-4 col-sm-6 padding-15">
+                <div class="service-box">
+                    <i class="m-flaticon-factory-1"></i>
+                    <div class="service-info">
+                        <h3>Fasilitas</h3>
+                        <p>Berbagai fasilitas cluster lengkap seperti Playground, Community Corner, dan Reflexology Path.</p>
+                    </div>
+                </div>
+            </div>
+            <!--item-7-->
+            <div class="col-lg-4 col-sm-6 padding-15">
+                <div class="service-box">
+                    <i class="m-flaticon-factory-1"></i>
+                    <div class="service-info">
+                        <h3>Princing & Sales Program</h3>
+                        <p>Kemudahan pembelian dengan harga property yang kompetitif.</p>
+                    </div>
+                </div>
+            </div>
+            <!--item-8-->
+            <div class="col-lg-4 col-sm-6 padding-15">
+                <div class="service-box">
+                    <i class="m-flaticon-factory-1"></i>
+                    <div class="service-info">
+                        <h3>Investasi</h3>
+                        <p>Potensi pertumbuhan nilai properti di masa depan tinggi karena terletak di daerah berkembang.</p>
+                    </div>
+                </div>
+            </div>
+            <!--item-9-->
+        </div>
+    </div>
+</section>
+<!--/.service-section-->
+
 {{-- Promotion-Section  --}}
-<section class="projects-section padding">
+{{-- <section class="projects-section padding">
     <div class="container-fluid">
         <div class="section-heading text-center mb-40">
             <span>MikaLand</span>
@@ -178,16 +276,16 @@
             </div>
         </div>
     </div>
-</section>
+</section> --}}
 <!--/.Promotion-section-->
 
 {{-- /.cta-section --}}
 <section class="cta-section padding">
     <div class="container">
         <div class="cta-content text-center">
-            <h2>We know that good <br>design means good business!</h2>
-            <p>We offer a fully integrated service that complements the architectural <br> concept, we ensure all projects.</p>
-            <a href="#" class="default-btn">Get Appointment</a>
+            <h2>Dapatkan harga terbaik <br>dan layanan memuaskan</h2>
+            <p>Jangan lewatkan kesempatan investasi properti yang <br> menguntungkan di daerah yang sedang berkembang.</p>
+            <a href="#" class="default-btn">Hubungi Kami</a>
         </div>
     </div>
 </section>

@@ -243,6 +243,7 @@
 </section>
 <!--/.testimonial-section-->
 
+{{-- /.cta-section --}}
 <section class="cta-section padding">
     <div class="container">
         <div class="cta-content text-center">

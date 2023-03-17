@@ -15,13 +15,14 @@
                         </li>
                         <li><a href="#">Projects</a>
                             <ul>
-                                @if(isset($categories))
+                                {{-- @if(isset($categories))
                                 @foreach($categories as $category)
                                 <li><a href="{{ route('category.show', $category->slug) }}">{{ $category->name }}</a></li>
                                 @endforeach
-                                @endif
-                                {{-- <li><a href="listprojects">All Projects</a></li>
-                                       <li><a href="projectdetail">Projects Single</a></li> --}}
+                                @endif --}}
+                                <li><a href="savana-list">Savana Park Resident</a></li>
+                                       <li><a href="rajawali-list">Rajawali Resident</a></li>
+                                       <li><a href="projectdetail">Mega Pesona Resident</a></li>
                             </ul>
                         </li>
                         <li><a href="#">Blog</a>

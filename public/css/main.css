@@ -314,6 +314,7 @@ button{
   }
 }
 
+  
 /* Button Style */
 .btn_group{}
 .btn_group a{
@@ -646,6 +647,16 @@ ul.nav > li > a.active{
 .about-section{}
 .about-wrap{}
 .about-content{}
+.about-projects{
+    background-image: url(../img/savana-home-primary.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    top: 0;
+    right: 0;
+    position: relative;
+}
 .about-content h2{
     margin-bottom: 30px;
 }
@@ -978,6 +989,13 @@ ul.nav > li > a.active{
     padding: 0;
 }
 .projects-carousel{}
+.project-items{
+    position: relative;
+    overflow: hidden;
+    z-index: 1;,
+    height:100;,
+    width : auto;
+}
 .project-item{
     position: relative;
     overflow: hidden;
@@ -1386,7 +1404,7 @@ ul.nav > li > a.active{
    CTA Section
    ========================================================================== */
 .cta-section{
-    background-image: url(../img/cta-bg.jpg);
+    background-image: url(../img/cta-image.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1488,8 +1506,30 @@ ul.nav > li > a.active{
 /* ==========================================================================
    Page Header Section
    ========================================================================== */
+   /* Nanti Ganti */
+   .page-headers{
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+   }
+   .page-headers:before{
+    background-color: rgba(0,0,0,0.5);
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    z-index: -1;}
+
 .page-header{
-    background-image: url(../img/page-header.jpg);
+    background-image: url(../img/fotoutama.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;

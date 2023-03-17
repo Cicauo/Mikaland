@@ -20,10 +20,13 @@
                         <img src="img/savana-home-primary-project.jpg" alt="img">
                     </div>
                     <div class="single-carousel">
-                        <img src="img/savana-home-primary-project.jpg" alt="img">
+                        <img src="img/savana-home-primary.jpg" alt="img">
                     </div>
                     <div class="single-carousel">
-                        <img src="img/savana-home-primary-project.jpg" alt="img">
+                        <img src="img/denah-50-bawah.jpg" alt="img">
+                    </div>
+                     <div class="single-carousel">
+                        <img src="img/denah-50-atas.png" alt="img">
                     </div>
                 </div>
             </div>
@@ -120,7 +123,7 @@
     <div class="container">
         <div class="section-heading text-center mb-40">
             <span>Savana Park Resident</span>
-            <h2>Pilihan Tipe Rumah</h2>
+            <h2>Tipe Rumah Lainnya</h2>
         </div>
         <!--/.section-heading-->
         <div id="project-carousel-2" class="project-carousel-2 owl-carousel">
@@ -129,21 +132,21 @@
                     <img src="img/savana-home-primary-project.jpg" alt="">
                 </div>
                 <div class="project-content">
-                    <h3><a href="#">Type 50/60</a></h3>
-                    <p>Cluster Savana Park type 50/60 adalah hunian 2 lantai dengan 3 kamar tidur dan 2 kamar mandi yang berlokasi di kawasan yang mengusung konsep green living. Dilengkapi dengan fasilitas taman bermain anak, jogging track,dan keamanan 24 jam, cluster ini cocok bagi keluarga muda atau pasangan yang baru menikah yang ingin memiliki hunian modern dengan budget terjangkau.</p>
-                    <a href="#" class="default-btn">Lihat Detail</a>
+                    <h3><a href="savana-type-33">Type 33/60</a></h3>
+                    <p>Cluster Savana Park type 33/60 adalah hunian 1 lantai dengan 2 kamar tidur dan 1 kamar mandi yang berlokasi di kawasan yang mengusung konsep green living. Dilengkapi dengan fasilitas taman bermain anak, jogging track,dan keamanan 24 jam, cluster ini cocok bagi keluarga muda atau pasangan yang baru menikah yang ingin memiliki hunian modern dengan budget terjangkau.</p>
+                    <a href="savana-type-33" class="default-btn">Lihat Detail</a>
                 </div>
             </div>
 
             <div class="project-item">
-                <div class="project-thumb">
+                {{-- <div class="project-thumb">
                     <img src="img/savana-home-primary-project.jpg" alt="">
                 </div>
                 <div class="project-content">
                     <h3><a href="#">Type 50/60</a></h3>
                     <p>Cluster Savana Park type 50/60 adalah hunian 2 lantai dengan 3 kamar tidur dan 2 kamar mandi yang berlokasi di kawasan yang mengusung konsep green living. Dilengkapi dengan fasilitas taman bermain anak, jogging track,dan keamanan 24 jam, cluster ini cocok bagi keluarga muda atau pasangan yang baru menikah yang ingin memiliki hunian modern dengan budget terjangkau.</p>
                     <a href="#" class="default-btn">Lihat Detail</a>
-                </div>
+                </div> --}}
             </div>
         </div>
     </div>

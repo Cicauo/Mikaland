@@ -8,6 +8,7 @@ use Illuminate\Support\Facades\Route;
 
 
 
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -30,9 +31,47 @@ Route::get('/about-company', function () {
     return view('Guest.AboutCompany');
 });
 
-Route::get('/listprojects', function () {
-    return view('Guest.ListProjects');
+// Ganti ini hanya sementara 
+// Savana 
+Route::get('/savana-list', function () {
+    return view('Guest.savanalist');
 });
+
+Route::get('/savana-type-50', function () {
+    return view('Guest.savanadetail50');
+});
+
+Route::get('/savana-type-33', function () {
+    return view('Guest.savanadetail33');
+});
+
+// Rajawali 
+Route::get('/rajawali-list', function () {
+    return view('Guest.rajawalilist');
+});
+
+Route::get('/rajawali-type-1', function () {
+    return view('Guest.rajawalidetail1');
+});
+
+Route::get('/rajawali-type-2', function () {
+    return view('Guest.rajawalidetail2');
+});
+
+Route::get('/mega-pesona-list', function () {
+    return view('Guest.megapesonalist');
+});
+
+Route::get('/mega-pesona-type-1', function () {
+    return view('Guest.pesonadetail1');
+});
+
+Route::get('/mega-pesona-type-2', function () {
+    return view('Guest.pesonadetail2');
+});
+
+
+// Route::get('/category/{slug}', [CategoryController::class, 'show'])->name('category.show');
 
 Route::get('/projectdetail', function () {
     return view('Guest.ProjectDetail');
@@ -52,6 +91,8 @@ Route::get('/contact', function () {
 });
 //FrontEnd-View-End
 
+
+
 //Dashboard-View-Start
 Route::group([ "middleware" => ['auth:sanctum', 'verified'] ], function() {
     Route::view('/dashboard', "dashboard")->name('dashboard');
@@ -69,9 +110,6 @@ Route::group([ "middleware" => ['auth:sanctum', 'verified'] ], function() {
     // POST route untuk menghapus data kategori
     Route::post('/category/{category}/delete', [CategoryController::class, 'destroy'])->name('category.destroy');
     //Menampilkan kategori dinamis di navbar frontend
-    Route::get('/category/{slug}', [CategoryController::class, 'show'])->name('category.show');
-
-
 
     //Contact
     Route::get('/contact/index', [ContactController::class, 'index'])->name('contact.index');

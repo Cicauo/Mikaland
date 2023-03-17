@@ -1,6 +1,9 @@
 @extends('Layouts.Index')
 @section('Pages')
-<div id="google-map"></div><!-- /#google-map -->
+<div id="google-map">
+ {{-- <img src="img/maps-savana.jpg" class="mx-auto d-block" alt="Responsive image"> --}}
+ <iframe class="mx-auto d-block" width="100%" height="440" frameborder="0" style="border:0" allowfullscreen="" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d991.4687659506736!2d106.45726555208627!3d-6.280151282357816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e420665f6135b0b%3A0x5ef21bfb0413ac65!2sKantor%20Pemasaran%20Mika%20Land!5e0!3m2!1sid!2sid!4v1678956138187!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div><!-- /#google-map -->
 
 <section class="contact-section bg-grey padding">
     <div class="dots"></div>
@@ -8,7 +11,8 @@
         <div class="contact-wrap d-flex align-items-center row">
             <div class="col-md-6 padding-15">
                 <div class="contact-info">
-                    <h2>Get in touch with us & <br>send us message today!</h2>
+                    <h2>Jangan ragu hubungi kita & <br>kirim pesanmu hari ini juga!</h2>
+                    
                     <p>Arkit is a different kind of architecture practice. Founded by LoganCee in 1991, we’re an employee-owned firm pursuing a democratic design process that values everyone’s input.</p>
                     <h3>198 West 21th Street, Suite 721 <br>New York, NY 10010</h3>
                     <h4><span>Email:</span> Dynamiclayers.Net <br> <span>Phone:</span> +88 (0) 101 0000 000 <br> <span>Fax:</span> +88 (0) 202 0000 001</h4>

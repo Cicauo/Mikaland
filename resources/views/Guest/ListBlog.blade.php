@@ -1,4 +1,4 @@
-@extends('Layouts.Index')
+@extends('layouts.index')
 @section('Pages')
 	<section class="blog-section padding">
 		    <div class="container">

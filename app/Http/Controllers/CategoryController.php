@@ -40,7 +40,7 @@ class CategoryController extends Controller
      * @return \Illuminate\Http\Response
      */
 
-     public function store(Request $request)
+     public function store(CategoryRequest $request)
      {
          $request->validate([
              'name' => 'required',
@@ -110,6 +110,7 @@ class CategoryController extends Controller
     public function edit($id)
     {
         $category = DB::table('category')->where('id', $id)->first();
+        $category = Category::findOrFail($id);
         return view('pages.category.category-edit', compact('category'));
     }
 
@@ -155,7 +156,6 @@ class CategoryController extends Controller
     {
         $category->delete();
 
-        return redirect()->route('pages.category.index')
-            ->with('success', 'Category deleted successfully');
+        return redirect()->route('pages.category.index');
     }
 }

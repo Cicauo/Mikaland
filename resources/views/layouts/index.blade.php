@@ -6,15 +6,15 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta name="description" content="Architecture & Interior HTML Template">
+		<meta name="description" content="Mida Karya Abadi Land">
         <meta name="author" content="DynamicLayers">
        
         <title>Mika Karya Abadi Land</title>
         
         
-		<link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+		<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
         
-         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+        <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 		<!-- Font Awesome CSS -->
         <link rel="stylesheet" href="css/fontawesome.min.css">
         <!-- Themify Icons CSS -->
