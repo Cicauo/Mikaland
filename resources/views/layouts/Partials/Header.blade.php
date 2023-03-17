@@ -22,17 +22,17 @@
                                 @endif --}}
                                 <li><a href="savana-list">Savana Park Resident</a></li>
                                        <li><a href="rajawali-list">Rajawali Resident</a></li>
-                                       <li><a href="projectdetail">Mega Pesona Resident</a></li>
+                                       <li><a href="mega-pesona-list">Mega Pesona Resident</a></li>
                             </ul>
                         </li>
-                        <li><a href="#">Blog</a>
-                            <ul>
+                        <li><a href="listblog">Blog</a>
+                            {{-- <ul>
                                 <li><a href="listblog">Blog Grid</a></li>
                                 <li><a href="blogdetail">Blog Detail</a></li>
-                            </ul>
+                            </ul> --}}
                         </li>
                         <li><a href="contact">Contact</a></li>
-                        <li class="phone"><i class="fa fa-phone"></i> (+123) 456 789 101</li>
+                        <li class="phone"><i class="fa fa-phone"></i> (+021) 599 5 888</li>
                     </ul>
                 </div>
             </div>

@@ -50,7 +50,7 @@ Route::get('/rajawali-list', function () {
     return view('Guest.rajawalilist');
 });
 
-Route::get('/rajawali-type-1', function () {
+Route::get('/rajawali-type-36', function () {
     return view('Guest.rajawalidetail1');
 });
 
@@ -62,7 +62,7 @@ Route::get('/mega-pesona-list', function () {
     return view('Guest.megapesonalist');
 });
 
-Route::get('/mega-pesona-type-1', function () {
+Route::get('/mega-pesona-type-33', function () {
     return view('Guest.pesonadetail1');
 });
 
@@ -77,12 +77,21 @@ Route::get('/projectdetail', function () {
     return view('Guest.ProjectDetail');
 });
 
+// Blog
 Route::get('/listblog', function () {
     return view('Guest.ListBlog');
 });
 
 Route::get('/blogdetail', function () {
     return view('Guest.BlogDetail');
+});
+
+Route::get('/blogdetail2', function () {
+    return view('Guest.BlogDetail2');
+});
+
+Route::get('/blogdetail3', function () {
+    return view('Guest.BlogDetail3');
 });
 
 Route::get('/contact', function () {

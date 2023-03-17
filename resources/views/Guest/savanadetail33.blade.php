@@ -22,22 +22,34 @@
                     <div class="single-carousel">
                         <img src="img/denah-33.jpg" alt="img">
                     </div>
+                    <div class="single-carousel">
+                        <img src="img/interior1.jpg" alt="img">
+                    </div>
+                    <div class="single-carousel">
+                        <img src="img/interior2.png" alt="img">
+                    </div>
+                    <div class="single-carousel">
+                        <img src="img/interior3.png" alt="img">
+                    </div>
+                    <div class="single-carousel">
+                        <img src="img/interior4.png" alt="img">
+                    </div>
                     
                 </div>
             </div>
             <div class="col-sm-6 padding-15">
                 <div class="project-single-content">
                     <h2>Savana Park Tipe 33/60</h2>
-                    <p>Cluster Savana Park type 33/60 adalah hunian 1 lantai dengan 2 kamar tidur dan 1 kamar mandi dan carport yang dapat memuat 1 mobil.</p>
+                    <p>Rumah Savana Park tipe 33/60 menawarkan rumah dengan 1 lantai, 2 kamar tidur, dan 1 kamar mandi. Meskipun ukurannya lebih kecil, rumah ini tetap memiliki desain modern dan hijau yang memperhatikan keberlanjutan. Savana Park memastikan bahwa setiap detail dan bagian dari hunian ini memiliki nilai dan manfaat yang bermanfaat bagi penghuninya dan lingkungan sekitar, sehingga menjadikannya sebagai pilihan hunian yang tepat bagi keluarga kecil atau pasangan</p>
                     <ul class="project-details">
-                        <li><span>Luas Tanah</span>: 60 m3</li>
-                        <li><span>Luas Bangunan</span>: 33 m3</li>
+                        <li><span>Luas Tanah</span>: 60 m2</li>
+                        <li><span>Luas Bangunan</span>: 33 m2</li>
                         <li><span>Harga</span>: 300 Juta</li>
                         <li><span>Booking</span>: 3 Juta</li>
                         <li><span>Uang Muka</span>: 0%</li>
                         <li><span>Angsuran Mualai</span>: 2,1 Juta / Bulan</li>
                     </ul><br>
-                    <a href="#" class="default-btn">Hubungi Kami</a>
+                    <a href="https://api.whatsapp.com/send?phone=6282122620425" style="display: inline-block; padding:16px; border-radius: 8px; background-color: #25D366; color: #fff; text-decoration: none; font-family: sans-serif; font-size: 16px;">WhatsApp Kami</a>
                 </div>
             </div>
         </div>
@@ -125,7 +137,7 @@
         <div id="project-carousel-2" class="project-carousel-2 owl-carousel">
             <div class="project-item">
                 <div class="project-thumb">
-                    <img src="img/savana-home-primary-project.jpg" alt="">
+                    <img src="img/savana-33.png" alt="">
                 </div>
                 <div class="project-content">
                     <h3><a href="savana-type-50">Type 50/60</a></h3>

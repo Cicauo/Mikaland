@@ -17,7 +17,7 @@
                             <div class="dl-caption small"><div class="inner-layer"><div data-animation="fade-in-left" data-delay="3s">Green living to make it better the future</div></div></div>
                             <div class="dl-btn-group">
                                 <div class="inner-layer">
-                                    <a href="listprojects" class="dl-btn" data-animation="fade-in-left" data-delay="3.5s">View Projects <i class="arrow_right"></i></a>
+                                    <a href="listprojects" class="dl-btn" data-animation="fade-in-left" data-delay="3.5s">Lihat Project <i class="arrow_right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -25,20 +25,20 @@
                 </div>  
             </div><!--Slide-1-->
             <div class="single-slide">
-                <div class="bg-img kenburns-top-right" style="background-image: url(img/slider-2.jpg);"></div>
+                <div class="bg-img kenburns-top-right" style="background-image: url(img/rajawali-utama.png);"></div>
                 <div class="overlay"></div>
                 <div class="slider-content-wrap d-flex align-items-center text-left">
                     <div class="container">
                         <div class="slider-content">
-                            <div class="dl-caption medium"><div class="inner-layer"><div data-animation="fade-in-right" data-delay="1s">Residencial</div></div></div>
+                            <div class="dl-caption medium"><div class="inner-layer"><div data-animation="fade-in-right" data-delay="1s">Cluster</div></div></div>
                             <div class="dl-caption dl-border" data-animation="fade-in-left" data-delay="4s"></div>
-                            <div class="dl-caption big"><div class="inner-layer"><div data-animation="fade-in-left" data-delay="2s">Open the door to</div></div>
+                            <div class="dl-caption big"><div class="inner-layer"><div data-animation="fade-in-left" data-delay="2s">Rajawali</div></div>
                             </div>
-                            <div class="dl-caption big"><div class="inner-layer"><div data-animation="fade-in-left" data-delay="2.5s">better kind of interior.</div></div></div>
-                            <div class="dl-caption small"><div class="inner-layer"><div data-animation="fade-in-left" data-delay="3s">Business is the activity of making money.</div></div></div>
+                            <div class="dl-caption big"><div class="inner-layer"><div data-animation="fade-in-left" data-delay="2.5s">Residential</div></div></div>
+                            <div class="dl-caption small"><div class="inner-layer"><div data-animation="fade-in-left" data-delay="3s">Building a sustainable future with modern futurism.</div></div></div>
                             <div class="dl-btn-group">
                                 <div class="inner-layer">
-                                    <a href="listprojects" class="dl-btn" data-animation="fade-in-left" data-delay="3.5s">View Projects <i class="arrow_right"></i></a>
+                                    <a href="rajawali-list" class="dl-btn" data-animation="fade-in-left" data-delay="3.5s">Lihat Project <i class="arrow_right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -46,20 +46,20 @@
                 </div>  
             </div><!--Slide-2-->
             <div class="single-slide">
-                <div class="bg-img kenburns-top-right" style="background-image: url(img/slider-3.jpg);"></div>
+                <div class="bg-img kenburns-top-right" style="background-image: url(img/mega-pesona-utama.png);"></div>
                 <div class="overlay"></div>
                 <div class="slider-content-wrap d-flex align-items-center text-left">
                     <div class="container">
                         <div class="slider-content">
-                            <div class="dl-caption medium"><div class="inner-layer"><div data-animation="fade-in-right" data-delay="1s">Residencial</div></div></div>
+                            <div class="dl-caption medium"><div class="inner-layer"><div data-animation="fade-in-right" data-delay="1s">Cluster</div></div></div>
                             <div class="dl-caption dl-border" data-animation="fade-in-left" data-delay="0s"></div>
-                            <div class="dl-caption big"><div class="inner-layer"><div data-animation="fade-in-left" data-delay="2s">Dream home might be</div></div>
+                            <div class="dl-caption big"><div class="inner-layer"><div data-animation="fade-in-left" data-delay="2s">Mega Pesona</div></div>
                             </div>
-                            <div class="dl-caption big"><div class="inner-layer"><div data-animation="fade-in-left" data-delay="2.5s">closer than you think.</div></div></div>
-                            <div class="dl-caption small"><div class="inner-layer"><div data-animation="fade-in-left" data-delay="3s">Business is the activity of making money.</div></div></div>
+                            <div class="dl-caption big"><div class="inner-layer"><div data-animation="fade-in-left" data-delay="2.5s">Residential</div></div></div>
+                            <div class="dl-caption small"><div class="inner-layer"><div data-animation="fade-in-left" data-delay="3s">Everything's has value</div></div></div>
                             <div class="dl-btn-group">
                                 <div class="inner-layer">
-                                    <a href="listprojects" class="dl-btn" data-animation="fade-in-left" data-delay="3.5s">View Projects <i class="arrow_right"></i></a>
+                                    <a href="megapesonalist" class="dl-btn" data-animation="fade-in-left" data-delay="3.5s">Lihat Project <i class="arrow_right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -95,78 +95,49 @@
             </div>
         </section><!--/.about-section-->
         
-        <section class="service-section bg-grey padding">
+       <section class="page-header padding">
+		    <div class="container">
+		        <div class="page-content text-center">
+		            <h2>Our speciallization</h2>
+		            <p>Mida Karya Abadi Land</p>
+		        </div>
+		    </div>
+		</section><!--/.page-header-->
+		
+        <section class="service-section section-2 bg-grey bd-bottom padding">
            <div class="dots"></div>
             <div class="container">
-                <div class="section-heading text-center mb-40">
-                   <span>Services</span>
-                   <h2>Our speciallization</h2>
-                </div><!--/.section-heading-->
-                 <div class="row service-wrap">
+                <div class="row service-wrap">
                     <div class="col-lg-3 col-sm-6 padding-15">
                         <div class="service-item">
                             <i class="flaticon-refinery"></i>
-                            <h3>Architecture</h3>
-                            <p>We offer a fully integrated service that complements the architectural concept, we ensure all projects.</p>
-                            <a href="#">View Projects</a>
+                            <h3>Desaign & Planing</h3>
+                            <p>Spesialis dalam desain dan perencanaan bangunan perumahan modern.</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6 padding-15">
                         <div class="service-item">
                             <i class="flaticon-industrial-robot-1"></i>
-                            <h3>Interior Design</h3>
-                            <p>We offer a fully integrated service that complements the architectural concept, we ensure all projects.</p>
-                            <a href="#">View Projects</a>
+                            <h3>Building</h3>
+                            <p>Bertanggung jawab atas konstruksi dan pengembangan proyek perumahan.</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6 padding-15">
                         <div class="service-item">
                             <i class="flaticon-tanks"></i>
-                            <h3>Painting Services</h3>
-                            <p>We offer a fully integrated service that complements the architectural concept, we ensure all projects.</p>
-                            <a href="#">View Projects</a>
+                            <h3>Management Estate</h3>
+                            <p> Bertanggung jawab atas manajemen keseluruhan proyek perumahan dari awal hingga akhir.</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6 padding-15">
                         <div class="service-item">
                             <i class="flaticon-factory"></i>
-                            <h3>Commercial Design</h3>
-                            <p>We offer a fully integrated service that complements the architectural concept, we ensure all projects.</p>
-                            <a href="#">View Projects</a>
+                            <h3>Property Market</h3>
+                            <p> Bertanggung jawab untuk memasarkan dan menjual properti perumahan yang sedang dikembangkan.</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-sm-6 padding-15">
-                        <div class="service-item">
-                            <i class="flaticon-control-system"></i>
-                            <h3>Industrial Working</h3>
-                            <p>We offer a fully integrated service that complements the architectural concept, we ensure all projects.</p>
-                            <a href="#">View Projects</a>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 padding-15">
-                        <div class="service-item">
-                            <i class="flaticon-industrial-robot"></i>
-                            <h3>Map Designing</h3>
-                            <p>We offer a fully integrated service that complements the architectural concept, we ensure all projects.</p>
-                            <a href="#">View Projects</a>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 padding-15">
-                        <div class="service-item">
-                            <i class="flaticon-worker"></i>
-                            <h3>Building Planning</h3>
-                            <p>We offer a fully integrated service that complements the architectural concept, we ensure all projects.</p>
-                            <a href="#">View Projects</a>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 padding-15">
-                        <div class="service-item">
-                            <i class="flaticon-assembly-line"></i>
-                            <h3>Painting Services</h3>
-                            <p>We offer a fully integrated service that complements the architectural concept, we ensure all projects.</p>
-                            <a href="#">View Projects</a>
-                        </div>
-                    </div>
+                   
+                   
                 </div>
             </div>
         </section><!--/.service-section-->
@@ -179,128 +150,46 @@
                 </div><!--/.section-heading-->
                 <div id="projects-carousel" class="projects-carousel owl-carousel">
                     <div class="project-item">
-                        <img src="img/project-1.jpg" alt="projects">
+                        <img src="img/savana-home-primary-project.jpg" alt="projects">
                         <div class="overlay"></div>
-                        <a href="img/project-1.jpg" class="view-icon img-popup" data-gall="myGallery"> <i class="fas fa-expand"></i></a>
+                        <a href="img/savana-home-primary-project.jpg" class="view-icon img-popup" data-gall="myGallery"> <i class="fas fa-expand"></i></a>
                         <div class="projects-content">
-                            <a href="projects.html" class="category">Interior</a>
-                            <h3><a href="project-single.html" class="tittle">Rectangular house near italy</a></h3>
+                            <a href="savana-type-50" class="category">Cluster</a>
+                            <h3><a href="savana-type-50" class="tittle">Savana Park Type 50/60</a></h3>
                         </div>
                     </div>
                     <div class="project-item">
-                        <img src="img/project-2.jpg" alt="projects">
+                        <img src="img/savana-home-secondary-project.jpg" alt="projects">
                         <div class="overlay"></div>
-                        <a href="img/project-2.jpg" class="view-icon img-popup" data-gall="myGallery"> <i class="fas fa-expand"></i></a>
+                        <a href="img/savana-home-secondary-project.jpg" class="view-icon img-popup" data-gall="myGallery"> <i class="fas fa-expand"></i></a>
                         <div class="projects-content">
-                            <a href="projects.html" class="category">Architecture</a>
-                            <h3><a href="project-single.html" class="tittle">Cathedral of brasilia brasilia</a></h3>
+                            <a href="savana-type-33" class="category">Cluster</a>
+                            <h3><a href="savana-type-33" class="tittle">Savana Park Typer 33/60</a></h3>
                         </div>
                     </div>
                     <div class="project-item">
-                        <img src="img/project-3.jpg" alt="projects">
+                        <img src="img/rajawali36.jpg" alt="projects">
                         <div class="overlay"></div>
-                        <a href="img/project-3.jpg" class="view-icon img-popup" data-gall="myGallery"> <i class="fas fa-expand"></i></a>
+                        <a href="img/rajawali36.jpg" class="view-icon img-popup" data-gall="myGallery"> <i class="fas fa-expand"></i></a>
                         <div class="projects-content">
-                            <a href="projects.html" class="category">Design</a>
-                            <h3><a href="project-single.html" class="tittle">Harpa concert hall reykjavik</a></h3>
+                            <a href="rajawal-type-36" class="category">Cluster</a>
+                            <h3><a href="rajawali-type-36" class="tittle">Rajawali Type 36/72</a></h3>
                         </div>
                     </div>
                     <div class="project-item">
-                        <img src="img/project-4.jpg" alt="projects">
+                        <img src="img/pesona-33.jpg" alt="projects">
                         <div class="overlay"></div>
-                        <a href="img/project-4.jpg" class="view-icon img-popup" data-gall="myGallery"> <i class="fas fa-expand"></i></a>
+                        <a href="img/pesoa-33.jpg" class="view-icon img-popup" data-gall="myGallery"> <i class="fas fa-expand"></i></a>
                         <div class="projects-content">
-                            <a href="projects.html" class="category">Architecture</a>
-                            <h3><a href="project-single.html" class="tittle">Milwauke museum wisconsin</a></h3>
-                        </div>
-                    </div>
-                    <div class="project-item">
-                        <img src="img/project-5.jpg" alt="projects">
-                        <div class="overlay"></div>
-                        <a href="img/project-5.jpg" class="view-icon img-popup" data-gall="myGallery"> <i class="fas fa-expand"></i></a>
-                        <div class="projects-content">
-                            <a href="projects.html" class="category">Design</a>
-                            <h3><a href="project-single.html" class="tittle">The dancing house prague</a></h3>
+                            <a href="mega-pesona-type-33" class="category">Cluster</a>
+                            <h3><a href="mega-pesona-type-33" class="tittle">Mega Pesona</a></h3>
                         </div>
                     </div>
                 </div>
             </div>
         </section><!--/.projects-section-->
         
-        <section class="team-section padding">
-            <div class="container">
-                <div class="section-heading text-center mb-40">
-                   <span>Team</span>
-                   <h2>Speciallized team</h2>
-                </div><!--/.section-heading-->
-                <div class="row team-wrap">
-                    <div class="col-lg-3 col-sm-6 padding-15">
-                        <div class="team-item">
-                           <div class="overlay"></div>
-                            <img src="img/team-1.jpg" alt="team">
-                            <div class="team-content">
-                                <h3>Jhon Castellon</h3>
-                                <span>Architect</span>
-                            </div>
-                            <ul class="team-social">
-                                <li><a href="#"><i class="ti-facebook"></i></a></li>
-                                <li><a href="#"><i class="ti-twitter"></i></a></li>
-                                <li><a href="#"><i class="ti-instagram"></i></a></li>
-                                <li><a href="#"><i class="ti-youtube"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 padding-15">
-                        <div class="team-item">
-                           <div class="overlay"></div>
-                            <img src="img/team-2.jpg" alt="team">
-                            <div class="team-content">
-                                <h3>José Carpio</h3>
-                                <span>Designer</span>
-                            </div>
-                            <ul class="team-social">
-                                <li><a href="#"><i class="ti-facebook"></i></a></li>
-                                <li><a href="#"><i class="ti-twitter"></i></a></li>
-                                <li><a href="#"><i class="ti-instagram"></i></a></li>
-                                <li><a href="#"><i class="ti-youtube"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 padding-15">
-                        <div class="team-item">
-                           <div class="overlay"></div>
-                            <img src="img/team-3.jpg" alt="team">
-                            <div class="team-content">
-                                <h3>Valentin Lacoste</h3>
-                                <span>Developer</span>
-                            </div>
-                            <ul class="team-social">
-                                <li><a href="#"><i class="ti-facebook"></i></a></li>
-                                <li><a href="#"><i class="ti-twitter"></i></a></li>
-                                <li><a href="#"><i class="ti-instagram"></i></a></li>
-                                <li><a href="#"><i class="ti-youtube"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 padding-15">
-                        <div class="team-item">
-                           <div class="overlay"></div>
-                            <img src="img/team-4.jpg" alt="team">
-                            <div class="team-content">
-                                <h3>Kyle Frederick</h3>
-                                <span>Marketer</span>
-                            </div>
-                            <ul class="team-social">
-                                <li><a href="#"><i class="ti-facebook"></i></a></li>
-                                <li><a href="#"><i class="ti-twitter"></i></a></li>
-                                <li><a href="#"><i class="ti-instagram"></i></a></li>
-                                <li><a href="#"><i class="ti-youtube"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section><!--/.team-section-->
+        
         
         <section class="testimonial-section bg-grey padding">
            <div class="dots"></div>
@@ -311,10 +200,10 @@
                 </div><!--/.section-heading-->
                 <div id="testimonial-carousel" class="testimonial-carousel owl-carousel">
                     <div class="testi-item d-flex align-items-center">
-                        <img src="img/testi-1.jpg" alt="img">
+                        <img src="img/testi-1.png" alt="img">
                         <div class="testi-content">
-                            <p>"Thank you for guiding us through the construction process, understanding, and always ready to accommodate our needs. We love our new space and know that it was built by the very best!"</p>
-                            <h3>Kyle Frederick</h3>
+                            <p>"Akses strategis ..dkt jalan raya ... perkembangan ke tahun depan akan pasti majau"</p>
+                            <h3>SBC Pagedangan</h3>
                             <ul class="rattings">
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
@@ -322,15 +211,14 @@
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
                             </ul>
-                            <span>Director</span>
                         </div>
                         <i class="fa fa-quote-right"></i>
                     </div>
                     <div class="testi-item d-flex align-items-center">
-                        <img src="img/testi-2.jpg" alt="img">
+                        <img src="img/testi-2.png" alt="img">
                         <div class="testi-content">
-                            <p>"Thank you for guiding us through the construction process, understanding, and always ready to accommodate our needs. We love our new space and know that it was built by the very best!"</p>
-                            <h3>Valentin Lacoste</h3>
+                            <p>"perumahan yg lumayan baru di munjul, lumayan strategis karena dekat dengan stasiun kereta"</p>
+                            <h3>Saripin "Mang Ipin"</h3>
                             <ul class="rattings">
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
@@ -338,14 +226,13 @@
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
                             </ul>
-                            <span>Director</span>
                         </div>
                         <i class="fa fa-quote-right"></i>
                     </div>
                     <div class="testi-item d-flex align-items-center">
-                        <img src="img/testi-3.jpg" alt="img">
+                        <img src="img/testi-3.png" alt="img">
                         <div class="testi-content">
-                            <p>"Thank you for guiding us through the construction process, understanding, and always ready to accommodate our needs. We love our new space and know that it was built by the very best!"</p>
+                            <p>"perumahan baru,strategis pinggir jalan raya alternatif tigaraksa-rangkasbitung"</p>
                             <h3>José Carpio</h3>
                             <ul class="rattings">
                                 <li><i class="fa fa-star"></i></li>
@@ -354,7 +241,6 @@
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
                             </ul>
-                            <span>Director</span>
                         </div>
                         <i class="fa fa-quote-right"></i>
                     </div>
@@ -366,45 +252,45 @@
             <div class="container">
                <div class="section-heading text-center mb-40">
                    <span>From Blog</span>
-                   <h2>Speciallized news</h2>
+                   <h2>Berita & Event</h2>
                 </div><!--/.section-heading-->
                 <div class="row blog-wrap">
                     <div class="col-lg-4 col-sm-6 sm-padding">
                         <div class="blog-item">
                             <div class="blog-thumb">
-                                <img src="img/post-1.jpg" alt="post">
-                                <span class="category"><a href="#">interior</a></span>
+                                <img src="img/blogsrh1.png" alt="post">
+                                <span class="category"><a href="#">Serah Terima</a></span>
                             </div>
                             <div class="blog-content">
-                                <h3><a href="#">Minimalist trending in modern architecture 2019</a></h3>
-                                <p>Building first evolved out dynamics between needs means available building materials attendant skills.</p>
-                                <a href="#" class="read-more">Read More</a>
+                                <h3><a href="blogdetail">Serah Terima Unit Konsumen | Tahap ke-1</a></h3>
+                                <p>Setelah melalui proses yang panjang dan penuh antisipasi, akhirnya Cluster Savana Park siap menyerahkan unit...</p>
+                                <a href="#" class="read-more">Baca Selengkapnya</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 sm-padding">
                         <div class="blog-item">
                             <div class="blog-thumb">
-                                <img src="img/post-2.jpg" alt="post">
-                                <span class="category"><a href="#">Architecture</a></span>
+                                <img src="img/blogsrh-4.png" alt="post">
+                                <span class="category"><a href="#">Pembangunan</a></span>
                             </div>
                             <div class="blog-content">
-                               <h3><a href="#">Terrace in the town yamazaki kentaro design workshop.</a></h3>
-                                <p>Building first evolved out dynamics between needs means available building materials attendant skills.</p>
-                                <a href="#" class="read-more">Read More</a>
+                                <h3><a href="blogdetail2">Savana Park 2 Lantai, Solusi Hunian Modern dan Nyaman</a></h3>
+                                <p>Savana Park kembali hadir dengan solusi hunian modern dan nyaman, yaitu perumahan Sava...</p>
+                                <a href="blogdetail2" class="read-more">Baca Selengkapnya</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 sm-padding">
                         <div class="blog-item">
                             <div class="blog-thumb">
-                                <img src="img/post-3.jpg" alt="post">
+                                <img src="img/gate1.png" alt="post">
                                 <span class="category"><a href="#">Design</a></span>
                             </div>
                             <div class="blog-content">
-                                <h3><a href="#">W270 house são paulo arquitetos fabio jorge architeqture.</a></h3>
-                                <p>Building first evolved out dynamics between needs means available building materials attendant skills.</p>
-                                <a href="#" class="read-more">Read More</a>
+                                <h3><a href="blogdetail3">Savana Park mulai merealisasikan kampanye one-gate system.</a></h3>
+                                <p>Keamanan adalah salah satu aspek penting yang menjadi pertimbangan utama dalam memilih hunian. Sa...</p>
+                                <a href="blogdetail3" class="read-more">Baca Selengkapnya</a>
                             </div>
                         </div>
                     </div>

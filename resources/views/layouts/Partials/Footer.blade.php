@@ -3,30 +3,36 @@
                 <div class="row">
                     <div class="col-lg-3 col-sm-6 sm-padding">
                         <div class="widget-content">
-                            <a href="#"><img src="img/logo-dark.png" alt="brand"></a>
-                            <p>Building your own home is about desire, fantasy. But it’s achievable anyone can do it.</p>
+                            <a href="#"><img src="img/mikaland-logo.png" alt="brand"></a>
+                            <p>PT. MIDA KARYA ABADI LAND fokus pada pembangunan perumahan dan real estate berkualitas, termasuk rumah sederhana, untuk masyarakat.</p>
                         </div>
                     </div>
                     <div class="col-lg-2 col-sm-6 sm-padding">
                         <div class="widget-content">
                             <h4>Company</h4>
                             <ul class="widget-links">
-                                <li><a href="#">About Us</a></li>
-                                <li><a href="#">Our Services</a></li>
-                                <li><a href="#">Clients Reviews</a></li>
-                                <li><a href="#">Contact Us</a></li>
+                                <li><a href="About-Us">About Us</a></li>
+                                <li><a href="#">Savana Park Resident</a></li>
+                                <li><a href="#">Rajawali Resident</a></li>
+                                <li><a href="#">Mega Pesona</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6 sm-padding">
                         <div class="widget-content">
-                            <h4>Headquaters</h4>
-                            <p>962 Fifth Avenue, 3rd Floor New York, NY10022</p>
-                            <span>Hello@dynamiclayers.net</span>
-                            <span>(+123) 456 789 101</span>
+                            <h4>Marketing Office</h4>
+                            <p>Jalan Ranca Gede No.34, Munjul, Kec. Solear, Kabupaten Tangerang, Banten 15730</p>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-6 sm-padding">
+                     <div class="col-lg-3 col-sm-6 sm-padding">
+                        <div class="widget-content">
+                            <h4>Customer Service Email</h4>
+                            {{-- <p>Jalan Ranca Gede No.34, Munjul, Kec. Solear, Kabupaten Tangerang, Banten 15730</p> --}}
+                            <span>cs@midakaryaabadiland.com</span>
+                            <span>(+021) 599 5 888</span>
+                        </div>
+                    </div>
+                    {{-- <div class="col-lg-4 col-sm-6 sm-padding">
                         <div class="widget-content">
                             <h4>Newslatter Subscription</h4>
                             <p>Subscribe and get 10% off from our <br>architecture company.</p>
@@ -43,7 +49,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> --}}
                 </div>
             </div>
         </section><!--/.widget-section-->

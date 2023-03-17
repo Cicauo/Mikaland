@@ -26,22 +26,31 @@
                         <img src="img/denah-50-bawah.jpg" alt="img">
                     </div>
                      <div class="single-carousel">
-                        <img src="img/denah-50-atas.png" alt="img">
+                        <img src="img/lantai1.jpg" alt="img">
+                    </div>
+                     <div class="single-carousel">
+                        <img src="img/lantai2.jpg" alt="img">
+                    </div>
+                     <div class="single-carousel">
+                        <img src="img/lantai3.jpg" alt="img">
+                    </div>
+                     <div class="single-carousel">
+                        <img src="img/lantai4.jpg" alt="img">
                     </div>
                 </div>
             </div>
             <div class="col-sm-6 padding-15">
                 <div class="project-single-content">
                     <h2>Savana Park Tipe 50/60</h2>
-                    <p>Cluster Savana Park type 50/60 adalah hunian 2 lantai dengan 3 kamar tidur dan 2 kamar mandi dan carport yang dapat memuat 1 mobil.</p>
+                    <p>Rumah Savana Park tipe 50/60 menawarkan rumah dengan 2 lantai, 3 kamar tidur, dan 2 kamar mandi. Desainnya yang modern dan hijau membuat rumah ini tidak hanya nyaman dan fungsional, tetapi juga memberikan kesan yang estetik dan berkelas. Savana Park memastikan bahwa setiap aspek dari hunian ini memperhatikan keberlanjutan, sehingga memberikan nilai dan manfaat yang positif bagi penghuninya dan lingkungan sekitar.</p>
                     <ul class="project-details">
-                        <li><span>Luas Tanah</span>: 60 m3</li>
-                        <li><span>Luas Bangunan</span>: 50 m3</li>
-                        <li><span>Harga</span>: 400 Juta</li>
+                        <li><span>Luas Tanah</span>: 60 m2</li>
+                        <li><span>Luas Bangunan</span>: 50 m2</li>
+                        <li><span>Harga</span>: 400 Juta-an</li>
                         <li><span>Booking + DP</span>: 10 Juta</li>
                         <li><span>Angsuran Mualai</span>: 3,4 Juta / Bulan</li>
                     </ul><br>
-                    <a href="#" class="default-btn">Hubungi Kami</a>
+                    <a href="https://api.whatsapp.com/send?phone=6282122620425" style="display: inline-block; padding:16px; border-radius: 8px; background-color: #25D366; color: #fff; text-decoration: none; font-family: sans-serif; font-size: 16px;">WhatsApp Kami</a>
                 </div>
             </div>
         </div>
