@@ -211,6 +211,7 @@
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
                             </ul>
+                            <span>SAVANA PARK</span>
                         </div>
                         <i class="fa fa-quote-right"></i>
                     </div>
@@ -226,14 +227,16 @@
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
                             </ul>
+                            
+                            <span>SAVANA PARK</span>
                         </div>
                         <i class="fa fa-quote-right"></i>
                     </div>
-                    <div class="testi-item d-flex align-items-center">
-                        <img src="img/testi-3.png" alt="img">
+                     <div class="testi-item d-flex align-items-center">
+                        <img src="img/testi-4.png" alt="img">
                         <div class="testi-content">
-                            <p>"perumahan baru,strategis pinggir jalan raya alternatif tigaraksa-rangkasbitung"</p>
-                            <h3>José Carpio</h3>
+                            <p>"Kakak ipar saya tinggal disini.. Perumahnnya sih cukup bagus... Tapi jalanan untuk masuk ke komplek masih bebatuan.. Belum diaspal atau papingblok.. Tapi jalanan tiap depan rumah sudah bagus dan diaspal.. Katanya karena masih ada pembangunan.. Tempat bolak balik truk.."</p>
+                            <h3>Ema MTV</h3>
                             <ul class="rattings">
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
@@ -241,6 +244,42 @@
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
                             </ul>
+                            
+                            <span>MEGA PESONA</span>
+                        </div>
+                        <i class="fa fa-quote-right"></i>
+                    </div>
+                    <div class="testi-item d-flex align-items-center">
+                        <img src="img/testi-5.png" alt="img">
+                        <div class="testi-content">
+                            <p>"Perum aman , cluster,  nyaman nib perumahan"</p>
+                            <h3>Yosef</h3>
+                            <ul class="rattings">
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                            </ul>
+                            
+                            <span>CLUSTER RAJAWALI</span>
+                        </div>
+                        <i class="fa fa-quote-right"></i>
+                    </div>
+                    <div class="testi-item d-flex align-items-center">
+                        <img src="img/testi-5.png" alt="img">
+                        <div class="testi-content">
+                            <p>"Cluster idaman semua orang. Tempatnya rapi,  dekat dengan indomaret, dan alfamaret, deket toko bangunan, deket pemberhentian angkot, banyak tempat makan , klinik juga dekat. Masjid jami al falahiyah dekat juga. Sekurity nya ada, pengembangan tahap 2 masih belum lanjut.  Tahap 1 ada 43 unit. Nanti tahap 2 rencananya 70 unit. Hayo siapa yang mau beli"</p>
+                            <h3>Jono Apri</h3>
+                            <ul class="rattings">
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                            </ul>
+                            
+                            <span>CLUSTER RAJAWALI</span>
                         </div>
                         <i class="fa fa-quote-right"></i>
                     </div>

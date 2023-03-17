@@ -37,6 +37,9 @@
                      <div class="single-carousel">
                         <img src="img/lantai4.jpg" alt="img">
                     </div>
+                    <div class="single-carousel">
+                        <img src="img/birdview.png" alt="img">
+                    </div>
                 </div>
             </div>
             <div class="col-sm-6 padding-15">
@@ -47,7 +50,7 @@
                         <li><span>Luas Tanah</span>: 60 m2</li>
                         <li><span>Luas Bangunan</span>: 50 m2</li>
                         <li><span>Harga</span>: 400 Juta-an</li>
-                        <li><span>Booking + DP</span>: 10 Juta</li>
+                        <li><span>Booking + DP</span>: 3 Juta</li>
                         <li><span>Angsuran Mualai</span>: 3,4 Juta / Bulan</li>
                     </ul><br>
                     <a href="https://api.whatsapp.com/send?phone=6282122620425" style="display: inline-block; padding:16px; border-radius: 8px; background-color: #25D366; color: #fff; text-decoration: none; font-family: sans-serif; font-size: 16px;">WhatsApp Kami</a>
